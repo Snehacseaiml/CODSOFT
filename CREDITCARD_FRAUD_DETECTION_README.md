@@ -62,6 +62,7 @@ Trained and evaluated multiple classification models:
 
 1. Clone the repository:
    ```bash
+   https://github.com/Snehacseaiml/CODSOFT/blob/main/CREDIT__CARD_FRAUD__DETECTION.ipynb
    
 Install the dependencies:
 pip install -r requirements.txt
