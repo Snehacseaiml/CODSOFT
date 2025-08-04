@@ -65,8 +65,7 @@ Used the following metrics to evaluate model performance:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/CODSOFT.git
-   cd CODSOFT/IRIS_FLOWER_CLASSIFICATION
+   https://github.com/Snehacseaiml/CODSOFT/blob/main/IRIS_FLOWER_CLASSIFICATION.ipynb
 Install dependencies:
 pip install -r requirements.txt
 Launch the notebook:
