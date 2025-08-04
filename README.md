@@ -70,6 +70,7 @@ Given passenger data (such as age, sex, class, fare, etc.), predict whether they
 
 1. Clone this repository:
    ```bash
+   Titanic_Survival_Prediction.ipynb
    
 pip install -r requirements.txt
 jupyter notebook notebooks/Titanic_EDA_Modeling.ipynb
